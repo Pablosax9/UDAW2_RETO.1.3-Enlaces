@@ -1,7 +1,7 @@
 # Reto 1.3: Enlaces
 ## Instrucciones:
-Nombre y Apellidos:
-URL del repositorio de gitlab:
+Nombre y Apellidos: Pablo Rodríguez Crespo
+URL del repositorio de gitlab: https://github.com/Pablosax9/UDAW2_RETO.1.3-Enlaces.git
 A partir del texto que se te proporciona, debes crear una página web que tenga el mismo aspecto que la siguiente imagen:
 ![alt text](enlaces.png)
 
